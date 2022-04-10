@@ -1,0 +1,13 @@
+﻿{
+  "profiles": {
+    "Search.Api": {
+      "commandName": "Project",
+      "dotnetRunMessages": true,
+      "launchUrl": "api",
+      "applicationUrl": "http://localhost:5030",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
